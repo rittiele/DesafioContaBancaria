@@ -38,7 +38,7 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 <h2>Acesse o projeto</h2> 
 
-Você pode [acessar o código fonte do projeto](https://github.com/rittiele/DesafioContaBancaria/ContaTerminal.java).
+Você pode [Acessar o código fonte do projeto](https://github.com/rittiele/DesafioContaBancaria/blob/main/Desafios/src/ContaTerminal.java)https://github.com/rittiele/DesafioContaBancaria/blob/main/Desafios/src/ContaTerminal.javaa).
 
 <h2>Desenvolvedor</h2>
 
